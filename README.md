@@ -17,4 +17,4 @@ Por fim, vi como trabalhar com listas em Python e como funciona o sistema de tra
 
 ## O código fonte dos desafios está disponível
 
-- Para acessar as soluções desenvolvidas por mim, basta clicar [aqui]()
+- Para acessar as soluções desenvolvidas por mim, basta clicar [aqui](https://github.com/lramon2001/Python-Fundamentos/tree/main/desafios_de_codigo)
